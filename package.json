@@ -3,17 +3,17 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://pryncetrose.github.io/OWL",
+  "homepage": "https://pryncetrose.github.io/Owl",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{pryncetrose}.github.io/{OWL}'",
+    "build-gh": "parcel build --public-url 'https://pryncetrose.github.io/Owl'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/pryncetrose/Owl.git"
   },
   "author": "Microsoft",
   "license": "ISC",
