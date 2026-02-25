@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "Adam Montrose",
 };
 
-const primaryColor = "#4E567E";
+const primaryColor = "#dee0e9";
 const secondaryColor = "#D2F1E4";
 
 const App = () => {
