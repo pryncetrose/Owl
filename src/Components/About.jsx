@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "kevin-grieve-YWvFzzxuOws-unsplash.jpg";
+import image from "../images/kevin-grieve-YWvFzzxuOws-unsplash.jpg";
 
 const imageAltText = "nice";
 
@@ -25,16 +25,16 @@ const imageAltText = "nice";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Father of 3, a tech savvy fitness rat by passion. .";
+  "I'm a Husband and Father of 3, a tech savvy fitness rat by passion. .";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "Cloud monitoring",
-  "Full stack developer, still developing",
+  "Web creation/design",
+  "Cloud monitoring engineer",
+  "Full stack developer, still developing :)",
   "Tech Leader",
   "Jack of all trades"
 ];
